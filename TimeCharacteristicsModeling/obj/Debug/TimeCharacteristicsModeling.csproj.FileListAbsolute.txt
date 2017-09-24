@@ -1,1 +1,6 @@
 D:\projects\ComputerSystems\TimeCharacteristicsModeling\bin\Debug\TimeCharacteristicsModeling.exe.config
+D:\projects\ComputerSystems\TimeCharacteristicsModeling\bin\Debug\TimeCharacteristicsModeling.exe
+D:\projects\ComputerSystems\TimeCharacteristicsModeling\bin\Debug\TimeCharacteristicsModeling.pdb
+D:\projects\ComputerSystems\TimeCharacteristicsModeling\obj\Debug\TimeCharacteristicsModeling.csprojResolveAssemblyReference.cache
+D:\projects\ComputerSystems\TimeCharacteristicsModeling\obj\Debug\TimeCharacteristicsModeling.exe
+D:\projects\ComputerSystems\TimeCharacteristicsModeling\obj\Debug\TimeCharacteristicsModeling.pdb
